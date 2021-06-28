@@ -2,11 +2,12 @@
 本文内容均来之网络收集，只收录好的产品，如果错误或遗漏，请PR
 
 # 设计规范
-- [Microsoft Fluent Design](https://www.microsoft.com/design/fluent/)
-- [Google Material Design](https://material-io.cn/)
+- [Microsoft Fluent](https://www.microsoft.com/design/fluent/)
+- [Google Material](https://material-io.cn/)
 - [IBM Design](https://www.ibm.com/design/language/)
 - [Facebook Design](https://design.facebook.com/)
-- [Salesforce Lightning Design](https://www.lightningdesignsystem.com/)
+- [Salesforce Lightning](https://www.lightningdesignsystem.com/)
+- [Mendix Atlas](https://www.mendix.com/atlas/)
 - [Ant Design](https://ant.design/)
 
 # 设计软件
